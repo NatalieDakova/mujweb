@@ -1,0 +1,92 @@
+.hlavni {
+    max-width: 100%;
+}
+
+
+ body {
+    font-family: ;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    font-size: 1.1rem;
+    
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: ;
+    text-transform: uppercase;
+}
+
+
+
+.menu {
+    list-style-type: none;
+    padding-left: 0;
+    float: left;
+    padding-right: 0%;
+    float: right;
+    margin-top: 10px;
+}
+
+.menu a {
+    padding: 10px;
+    margin-right: 5px;
+    border-radius: 3px;
+    display: block;
+    color: black;
+    border-bottom: 3px solid #FFF;
+}
+
+.menu a:hover {
+    border-bottom: 3px solid #FED94D;
+    text-decoration: none;
+}
+
+
+
+.copyright {
+    clear: both;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    / 1 / display: table;
+    / 2 /
+}
+
+
+
+.medium-8 column {
+    float: left;
+}
+
+
+.trida {
+    background-color: white;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+}
+
+
+    .menu {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+    }
+   
+footer {
+    background-color: white;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
